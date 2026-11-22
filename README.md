@@ -11,10 +11,10 @@
 在 Codex、Claude Code 或 WorkBuddy 的对话中，可以先发这句。
 
 ```text
-帮我安装这个 Skill：https://github.com/chenbong/mijia-cloud
+帮我安装这个 Skill：https://github.com/chenbong/mijia-cloud-skill
 ```
 
-如果客户端需要手动安装，下载仓库源码或执行 `git clone https://github.com/chenbong/mijia-cloud.git`，再按下表放置或导入整个目录。保留 `SKILL.md`、`scripts/` 和 `references/`。
+如果客户端需要手动安装，下载仓库源码或执行 `git clone https://github.com/chenbong/mijia-cloud-skill.git mijia-cloud`，将整个目录命名为 `mijia-cloud` 后，按下表放置或导入。保留 `SKILL.md`、`scripts/` 和 `references/`。
 
 | 使用方式 | 安装方法 |
 | --- | --- |
