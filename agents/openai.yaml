@@ -1,0 +1,4 @@
+interface:
+  display_name: "米家云端管理"
+  short_description: "扫码登录米家，管理 App 的手动控制、自动化场景与设备属性"
+  default_prompt: "使用 $mijia-cloud 查看米家设备与场景，并按我的要求修改。"
