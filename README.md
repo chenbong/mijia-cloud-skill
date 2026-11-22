@@ -8,7 +8,13 @@
 
 ## 安装
 
-下载仓库源码，或执行 `git clone https://github.com/chenbong/mijia-cloud.git`。保留整个 `mijia-cloud` 目录，包括 `SKILL.md`、`scripts/` 和 `references/`。
+在 Codex、Claude Code 或 WorkBuddy 的对话中，可以先发这句。
+
+```text
+帮我安装这个 Skill：https://github.com/chenbong/mijia-cloud
+```
+
+如果客户端需要手动安装，下载仓库源码或执行 `git clone https://github.com/chenbong/mijia-cloud.git`，再按下表放置或导入整个目录。保留 `SKILL.md`、`scripts/` 和 `references/`。
 
 | 使用方式 | 安装方法 |
 | --- | --- |
